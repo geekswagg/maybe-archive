@@ -45,7 +45,7 @@
         "@hookform/resolvers": "^2.9.6",
         "@polygon.io/client-js": "^6.0.6",
         "@popperjs/core": "^2.11.5",
-        "@prisma/client": "^5.8.0",
+        "@prisma/client": "^5.22.0",
         "@sentry/node": "^7.98.0",
         "@sentry/react": "^7.22.0",
         "@sentry/tracing": "^7.98.0",
